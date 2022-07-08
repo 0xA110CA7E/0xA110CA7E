@@ -1,4 +1,4 @@
-## 💫
+## 🙋
 🏹 ｡ ﾟ ୨  19-Year-old Software Developer
 
 💛 ｡ ﾟ ୨  Learning Rust
